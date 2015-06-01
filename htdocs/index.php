@@ -1,6 +1,6 @@
 <?php
 
-phpinfo();
-print "Helo word!!";
+echo "Helo word!!";
+echo ":P";
 
 ?>
